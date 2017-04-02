@@ -1,0 +1,188 @@
+shell-helper.lo: shell-helper.c /usr/include/stdc-predef.h \
+ /usr/include/stdio.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/assert.h ../config.h \
+ /usr/include/libweston-1/compositor.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdbool.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/time.h \
+ /usr/include/bits/time.h /usr/include/xlocale.h \
+ /usr/include/pixman-1/pixman.h /usr/include/pixman-1/pixman-version.h \
+ /usr/include/xkbcommon/xkbcommon.h \
+ /usr/include/xkbcommon/xkbcommon-names.h \
+ /usr/include/xkbcommon/xkbcommon-keysyms.h \
+ /usr/include/xkbcommon/xkbcommon-compat.h /usr/include/wayland-server.h \
+ /usr/include/wayland-server-core.h /usr/include/sys/types.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/bits/byteswap-16.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/wayland-util.h \
+ /usr/include/math.h /usr/include/bits/math-vector.h \
+ /usr/include/bits/libm-simd-decl-stubs.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h /usr/include/inttypes.h \
+ /usr/include/wayland-version.h /usr/include/wayland-server-protocol.h \
+ /usr/include/wayland-server.h /usr/include/libweston-1/version.h \
+ /usr/include/libweston-1/matrix.h \
+ /usr/include/libweston-1/config-parser.h \
+ /usr/include/libweston-1/zalloc.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
+ /usr/include/bits/stdlib-float.h \
+ /usr/include/libweston-1/timeline-object.h \
+ shell-helper-server-protocol.h
+
+/usr/include/stdc-predef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/assert.h:
+
+../config.h:
+
+/usr/include/libweston-1/compositor.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdbool.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/time.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/pixman-1/pixman.h:
+
+/usr/include/pixman-1/pixman-version.h:
+
+/usr/include/xkbcommon/xkbcommon.h:
+
+/usr/include/xkbcommon/xkbcommon-names.h:
+
+/usr/include/xkbcommon/xkbcommon-keysyms.h:
+
+/usr/include/xkbcommon/xkbcommon-compat.h:
+
+/usr/include/wayland-server.h:
+
+/usr/include/wayland-server-core.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/byteswap-16.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/wayland-util.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/math-vector.h:
+
+/usr/include/bits/libm-simd-decl-stubs.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/wayland-version.h:
+
+/usr/include/wayland-server-protocol.h:
+
+/usr/include/wayland-server.h:
+
+/usr/include/libweston-1/version.h:
+
+/usr/include/libweston-1/matrix.h:
+
+/usr/include/libweston-1/config-parser.h:
+
+/usr/include/libweston-1/zalloc.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/alloca.h:
+
+/usr/include/bits/stdlib-bsearch.h:
+
+/usr/include/bits/stdlib-float.h:
+
+/usr/include/libweston-1/timeline-object.h:
+
+shell-helper-server-protocol.h:

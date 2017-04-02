@@ -1,0 +1,564 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DESKTOP_CLIENT_PROTOCOL_H	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_CLIENT_PROTOCOL_H$/;"	d
+DESKTOP_CLIENT_PROTOCOL_H	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_CLIENT_PROTOCOL_H$/;"	d
+DESKTOP_SHELL_CONFIGURE_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_CONFIGURE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_CONFIGURE_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_CONFIGURE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_CURSOR_ARROW	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_ARROW = 3,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_ARROW	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_ARROW = 3,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_BUSY	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_BUSY = 11,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_BUSY	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_BUSY = 11,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_ENUM	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_CURSOR_ENUM$/;"	d
+DESKTOP_SHELL_CURSOR_ENUM	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_CURSOR_ENUM$/;"	d
+DESKTOP_SHELL_CURSOR_MOVE	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_MOVE = 7,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_MOVE	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_MOVE = 7,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_NONE	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_NONE = 0,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_NONE	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_NONE = 0,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM = 2,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM = 2,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT = 6,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT = 6,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT = 10,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT = 10,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_LEFT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_LEFT = 4,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_LEFT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_LEFT = 4,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_RIGHT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_RIGHT = 8,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_RIGHT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_RIGHT = 8,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP = 1,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP = 1,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT = 5,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT = 5,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT = 9,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT = 9,$/;"	e	enum:desktop_shell_cursor
+DESKTOP_SHELL_DESKTOP_READY	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_DESKTOP_READY /;"	d
+DESKTOP_SHELL_DESKTOP_READY	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_DESKTOP_READY /;"	d
+DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION /;"	d
+DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION /;"	d
+DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION /;"	d
+DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION /;"	d
+DESKTOP_SHELL_PANEL_POSITION_BOTTOM	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_BOTTOM = 1,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_BOTTOM	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_BOTTOM = 1,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_ENUM	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_PANEL_POSITION_ENUM$/;"	d
+DESKTOP_SHELL_PANEL_POSITION_ENUM	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_PANEL_POSITION_ENUM$/;"	d
+DESKTOP_SHELL_PANEL_POSITION_LEFT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_LEFT = 2,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_LEFT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_LEFT = 2,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_RIGHT	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_RIGHT = 3,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_RIGHT	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_RIGHT = 3,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_TOP	protocols/generated/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_TOP = 0,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PANEL_POSITION_TOP	shell/desktop-shell-client-protocol.h	/^	DESKTOP_SHELL_PANEL_POSITION_TOP = 0,$/;"	e	enum:desktop_shell_panel_position
+DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_BACKGROUND	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_BACKGROUND /;"	d
+DESKTOP_SHELL_SET_BACKGROUND	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_BACKGROUND /;"	d
+DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_GRAB_SURFACE	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_GRAB_SURFACE /;"	d
+DESKTOP_SHELL_SET_GRAB_SURFACE	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_GRAB_SURFACE /;"	d
+DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_LOCK_SURFACE	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_LOCK_SURFACE /;"	d
+DESKTOP_SHELL_SET_LOCK_SURFACE	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_LOCK_SURFACE /;"	d
+DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_PANEL	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL /;"	d
+DESKTOP_SHELL_SET_PANEL	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL /;"	d
+DESKTOP_SHELL_SET_PANEL_POSITION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_POSITION /;"	d
+DESKTOP_SHELL_SET_PANEL_POSITION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_POSITION /;"	d
+DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_PANEL_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_SINCE_VERSION /;"	d
+DESKTOP_SHELL_SET_PANEL_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_SET_PANEL_SINCE_VERSION /;"	d
+DESKTOP_SHELL_UNLOCK	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_UNLOCK /;"	d
+DESKTOP_SHELL_UNLOCK	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_UNLOCK /;"	d
+DESKTOP_SHELL_UNLOCK_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_UNLOCK_SINCE_VERSION /;"	d
+DESKTOP_SHELL_UNLOCK_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define DESKTOP_SHELL_UNLOCK_SINCE_VERSION /;"	d
+MAYNARD_IS_PANEL	shell/panel.h	/^#define MAYNARD_IS_PANEL(/;"	d
+MAYNARD_IS_PANEL_CLASS	shell/panel.h	/^#define MAYNARD_IS_PANEL_CLASS(/;"	d
+MAYNARD_PANEL	shell/panel.h	/^#define MAYNARD_PANEL(/;"	d
+MAYNARD_PANEL_BUTTON_NONE	shell/panel.h	/^  MAYNARD_PANEL_BUTTON_NONE,$/;"	e	enum:__anon1
+MAYNARD_PANEL_BUTTON_SYSTEM	shell/panel.h	/^  MAYNARD_PANEL_BUTTON_SYSTEM,$/;"	e	enum:__anon1
+MAYNARD_PANEL_BUTTON_VOLUME	shell/panel.h	/^  MAYNARD_PANEL_BUTTON_VOLUME$/;"	e	enum:__anon1
+MAYNARD_PANEL_CLASS	shell/panel.h	/^#define MAYNARD_PANEL_CLASS(/;"	d
+MAYNARD_PANEL_GET_CLASS	shell/panel.h	/^#define MAYNARD_PANEL_GET_CLASS(/;"	d
+MAYNARD_PANEL_HEIGHT	shell/maynard.c	/^#define MAYNARD_PANEL_HEIGHT /;"	d	file:
+MAYNARD_PANEL_TYPE	shell/panel.h	/^#define MAYNARD_PANEL_TYPE /;"	d
+MAYNARD_PANEL_WIDTH	shell/panel.h	/^#define MAYNARD_PANEL_WIDTH /;"	d
+MaynardPanel	shell/panel.h	/^struct MaynardPanel$/;"	s
+MaynardPanel	shell/panel.h	/^typedef struct MaynardPanel MaynardPanel;$/;"	t	typeref:struct:MaynardPanel
+MaynardPanel::parent	shell/panel.h	/^  GtkWindow parent;$/;"	m	struct:MaynardPanel
+MaynardPanel::priv	shell/panel.h	/^  MaynardPanelPrivate *priv;$/;"	m	struct:MaynardPanel
+MaynardPanelButton	shell/panel.h	/^} MaynardPanelButton;$/;"	t	typeref:enum:__anon1
+MaynardPanelClass	shell/panel.h	/^struct MaynardPanelClass$/;"	s
+MaynardPanelClass	shell/panel.h	/^typedef struct MaynardPanelClass MaynardPanelClass;$/;"	t	typeref:struct:MaynardPanelClass
+MaynardPanelClass::parent_class	shell/panel.h	/^  GtkWindowClass parent_class;$/;"	m	struct:MaynardPanelClass
+MaynardPanelPrivate	shell/panel.c	/^struct MaynardPanelPrivate$/;"	s	file:
+MaynardPanelPrivate	shell/panel.h	/^typedef struct MaynardPanelPrivate MaynardPanelPrivate;$/;"	t	typeref:struct:MaynardPanelPrivate
+MaynardPanelPrivate::system_button	shell/panel.c	/^  GtkWidget *system_button;$/;"	m	struct:MaynardPanelPrivate	file:
+SCREENSAVER_SET_SURFACE	protocols/generated/desktop-shell-client-protocol.h	/^#define SCREENSAVER_SET_SURFACE /;"	d
+SCREENSAVER_SET_SURFACE	shell/desktop-shell-client-protocol.h	/^#define SCREENSAVER_SET_SURFACE /;"	d
+SCREENSAVER_SET_SURFACE_SINCE_VERSION	protocols/generated/desktop-shell-client-protocol.h	/^#define SCREENSAVER_SET_SURFACE_SINCE_VERSION /;"	d
+SCREENSAVER_SET_SURFACE_SINCE_VERSION	shell/desktop-shell-client-protocol.h	/^#define SCREENSAVER_SET_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION /;"	d
+SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_ADD_SURFACE_TO_LAYER_SINCE_VERSION /;"	d
+SHELL_HELPER_CLIENT_PROTOCOL_H	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CLIENT_PROTOCOL_H$/;"	d
+SHELL_HELPER_CLIENT_PROTOCOL_H	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CLIENT_PROTOCOL_H$/;"	d
+SHELL_HELPER_CURTAIN	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CURTAIN /;"	d
+SHELL_HELPER_CURTAIN	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CURTAIN /;"	d
+SHELL_HELPER_CURTAIN_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CURTAIN_SINCE_VERSION /;"	d
+SHELL_HELPER_CURTAIN_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_CURTAIN_SINCE_VERSION /;"	d
+SHELL_HELPER_CURTAIN_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_CURTAIN_SINCE_VERSION /;"	d
+SHELL_HELPER_CURTAIN_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_CURTAIN_SINCE_VERSION /;"	d
+SHELL_HELPER_MOVE_SURFACE	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE /;"	d
+SHELL_HELPER_MOVE_SURFACE	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE /;"	d
+SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_MOVE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_SERVER_PROTOCOL_H	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SERVER_PROTOCOL_H$/;"	d
+SHELL_HELPER_SERVER_PROTOCOL_H	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SERVER_PROTOCOL_H$/;"	d
+SHELL_HELPER_SET_PANEL	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SET_PANEL /;"	d
+SHELL_HELPER_SET_PANEL	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SET_PANEL /;"	d
+SHELL_HELPER_SET_PANEL_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SET_PANEL_SINCE_VERSION /;"	d
+SHELL_HELPER_SET_PANEL_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SET_PANEL_SINCE_VERSION /;"	d
+SHELL_HELPER_SET_PANEL_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SET_PANEL_SINCE_VERSION /;"	d
+SHELL_HELPER_SET_PANEL_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SET_PANEL_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE /;"	d
+SHELL_HELPER_SLIDE_SURFACE	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_BACK_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION	protocols/generated/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION	protocols/generated/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION	shell/shell-helper-client-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION /;"	d
+SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION	shell/shell-helper-server-protocol.h	/^#define SHELL_HELPER_SLIDE_SURFACE_SINCE_VERSION /;"	d
+SLIDE_REQUEST_BACK	shell/shell-helper.c	/^	SLIDE_REQUEST_BACK$/;"	e	enum:SlideRequest	file:
+SLIDE_REQUEST_NONE	shell/shell-helper.c	/^	SLIDE_REQUEST_NONE,$/;"	e	enum:SlideRequest	file:
+SLIDE_REQUEST_OUT	shell/shell-helper.c	/^	SLIDE_REQUEST_OUT,$/;"	e	enum:SlideRequest	file:
+SLIDE_STATE_BACK	shell/shell-helper.c	/^	SLIDE_STATE_BACK$/;"	e	enum:SlideState	file:
+SLIDE_STATE_NONE	shell/shell-helper.c	/^	SLIDE_STATE_NONE,$/;"	e	enum:SlideState	file:
+SLIDE_STATE_OUT	shell/shell-helper.c	/^	SLIDE_STATE_OUT,$/;"	e	enum:SlideState	file:
+SLIDE_STATE_SLIDING_BACK	shell/shell-helper.c	/^	SLIDE_STATE_SLIDING_BACK,$/;"	e	enum:SlideState	file:
+SLIDE_STATE_SLIDING_OUT	shell/shell-helper.c	/^	SLIDE_STATE_SLIDING_OUT,$/;"	e	enum:SlideState	file:
+SlideRequest	shell/shell-helper.c	/^enum SlideRequest {$/;"	g	file:
+SlideState	shell/shell-helper.c	/^enum SlideState {$/;"	g	file:
+WESTON_DESKTOP_CLIENT_PROTOCOL_H	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_CLIENT_PROTOCOL_H$/;"	d
+WESTON_DESKTOP_CLIENT_PROTOCOL_H	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_CLIENT_PROTOCOL_H$/;"	d
+WESTON_DESKTOP_SHELL_CONFIGURE_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_CONFIGURE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_CONFIGURE_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_CONFIGURE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_CURSOR_ARROW	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_ARROW = 3,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_ARROW	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_ARROW = 3,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_BUSY	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_BUSY = 11,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_BUSY	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_BUSY = 11,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_ENUM	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_CURSOR_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_CURSOR_ENUM	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_CURSOR_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_CURSOR_MOVE	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_MOVE = 7,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_MOVE	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_MOVE = 7,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_NONE	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_NONE = 0,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_NONE	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_NONE = 0,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM = 2,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM = 2,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT = 6,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_LEFT = 6,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT = 10,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_BOTTOM_RIGHT = 10,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_LEFT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_LEFT = 4,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_LEFT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_LEFT = 4,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_RIGHT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_RIGHT = 8,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_RIGHT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_RIGHT = 8,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP = 1,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP = 1,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT = 5,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_LEFT = 5,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT = 9,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_CURSOR_RESIZE_TOP_RIGHT = 9,$/;"	e	enum:weston_desktop_shell_cursor
+WESTON_DESKTOP_SHELL_DESKTOP_READY	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_DESKTOP_READY /;"	d
+WESTON_DESKTOP_SHELL_DESKTOP_READY	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_DESKTOP_READY /;"	d
+WESTON_DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_DESKTOP_READY_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_ERROR_ENUM	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_ERROR_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_ERROR_ENUM	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_ERROR_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_ERROR_INVALID_ARGUMENT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_ERROR_INVALID_ARGUMENT = 0,$/;"	e	enum:weston_desktop_shell_error
+WESTON_DESKTOP_SHELL_ERROR_INVALID_ARGUMENT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_ERROR_INVALID_ARGUMENT = 0,$/;"	e	enum:weston_desktop_shell_error
+WESTON_DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_GRAB_CURSOR_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_PANEL_POSITION_BOTTOM	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_BOTTOM = 1,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_BOTTOM	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_BOTTOM = 1,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_ENUM	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_PANEL_POSITION_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_PANEL_POSITION_ENUM	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_PANEL_POSITION_ENUM$/;"	d
+WESTON_DESKTOP_SHELL_PANEL_POSITION_LEFT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_LEFT = 2,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_LEFT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_LEFT = 2,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_RIGHT	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_RIGHT = 3,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_RIGHT	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_RIGHT = 3,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_TOP	protocols/generated/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_TOP = 0,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PANEL_POSITION_TOP	shell/weston-desktop-shell-client-protocol.h	/^	WESTON_DESKTOP_SHELL_PANEL_POSITION_TOP = 0,$/;"	e	enum:weston_desktop_shell_panel_position
+WESTON_DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_PREPARE_LOCK_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_BACKGROUND	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_BACKGROUND /;"	d
+WESTON_DESKTOP_SHELL_SET_BACKGROUND	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_BACKGROUND /;"	d
+WESTON_DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_BACKGROUND_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE /;"	d
+WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE /;"	d
+WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_GRAB_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE /;"	d
+WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE /;"	d
+WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_LOCK_SURFACE_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_POSITION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_POSITION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_POSITION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_POSITION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_POSITION_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_SET_PANEL_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_SET_PANEL_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_UNLOCK	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_UNLOCK /;"	d
+WESTON_DESKTOP_SHELL_UNLOCK	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_UNLOCK /;"	d
+WESTON_DESKTOP_SHELL_UNLOCK_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_UNLOCK_SINCE_VERSION /;"	d
+WESTON_DESKTOP_SHELL_UNLOCK_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_DESKTOP_SHELL_UNLOCK_SINCE_VERSION /;"	d
+WESTON_SCREENSAVER_SET_SURFACE	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_SCREENSAVER_SET_SURFACE /;"	d
+WESTON_SCREENSAVER_SET_SURFACE	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_SCREENSAVER_SET_SURFACE /;"	d
+WESTON_SCREENSAVER_SET_SURFACE_SINCE_VERSION	protocols/generated/weston-desktop-shell-client-protocol.h	/^#define WESTON_SCREENSAVER_SET_SURFACE_SINCE_VERSION /;"	d
+WESTON_SCREENSAVER_SET_SURFACE_SINCE_VERSION	shell/weston-desktop-shell-client-protocol.h	/^#define WESTON_SCREENSAVER_SET_SURFACE_SINCE_VERSION /;"	d
+__MAYNARD_PANEL_H__	shell/panel.h	/^#define __MAYNARD_PANEL_H__$/;"	d
+add_surface_to_layer	protocols/generated/shell-helper-server-protocol.h	/^	void (*add_surface_to_layer)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+add_surface_to_layer	shell/shell-helper-server-protocol.h	/^	void (*add_surface_to_layer)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+background	shell/maynard.c	/^	struct element *background;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+background_create	shell/maynard.c	/^background_create (struct desktop *desktop)$/;"	f	file:
+bind_helper	shell/shell-helper.c	/^bind_helper(struct wl_client *client, void *data, uint32_t version, uint32_t id)$/;"	f	file:
+compositor	shell/shell-helper.c	/^	struct weston_compositor *compositor;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_compositor	file:
+configure	protocols/generated/desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:desktop_shell_listener
+configure	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+configure	shell/desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:desktop_shell_listener
+configure	shell/weston-desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+configure_panel	shell/shell-helper.c	/^configure_panel(struct weston_surface *es, int32_t sx, int32_t sy)$/;"	f	file:
+configure_surface	shell/shell-helper.c	/^configure_surface(struct weston_surface *es, int32_t sx, int32_t sy)$/;"	f	file:
+container_of	shell/shell-helper.c	/^#define container_of(/;"	d	file:
+css_setup	shell/maynard.c	/^css_setup()$/;"	f	file:
+curtain	protocols/generated/shell-helper-server-protocol.h	/^	void (*curtain)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+curtain	shell/maynard.c	/^	struct element *curtain;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+curtain	shell/shell-helper-server-protocol.h	/^	void (*curtain)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+curtain_animation	shell/shell-helper.c	/^	struct weston_view_animation *curtain_animation;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_view_animation	file:
+curtain_create	shell/maynard.c	/^curtain_create (struct desktop *desktop)$/;"	f	file:
+curtain_done_hide	shell/shell-helper.c	/^curtain_done_hide(struct weston_view_animation *animation,$/;"	p	file:
+curtain_fade_done	shell/shell-helper.c	/^curtain_fade_done(struct weston_view_animation *animation,$/;"	f	file:
+curtain_layer	shell/shell-helper.c	/^	struct weston_layer curtain_layer;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_layer	file:
+curtain_show	shell/shell-helper.c	/^	uint32_t curtain_show;$/;"	m	struct:shell_helper	file:
+curtain_view	shell/shell-helper.c	/^	struct weston_view *curtain_view;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_view	file:
+desktop	shell/maynard.c	/^struct desktop {$/;"	s	file:
+desktop::background	shell/maynard.c	/^	struct element *background;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+desktop::curtain	shell/maynard.c	/^	struct element *curtain;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+desktop::display	shell/maynard.c	/^	struct wl_display *display;$/;"	m	struct:desktop	typeref:struct:desktop::wl_display	file:
+desktop::gdk_display	shell/maynard.c	/^	GdkDisplay *gdk_display;$/;"	m	struct:desktop	file:
+desktop::helper	shell/maynard.c	/^	struct shell_helper *helper;$/;"	m	struct:desktop	typeref:struct:desktop::shell_helper	file:
+desktop::output	shell/maynard.c	/^	struct wl_output *output;$/;"	m	struct:desktop	typeref:struct:desktop::wl_output	file:
+desktop::panel	shell/maynard.c	/^	struct element *panel;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+desktop::pointer	shell/maynard.c	/^	struct wl_pointer *pointer;$/;"	m	struct:desktop	typeref:struct:desktop::wl_pointer	file:
+desktop::registry	shell/maynard.c	/^	struct wl_registry *registry;$/;"	m	struct:desktop	typeref:struct:desktop::wl_registry	file:
+desktop::seat	shell/maynard.c	/^	struct wl_seat *seat;$/;"	m	struct:desktop	typeref:struct:desktop::wl_seat	file:
+desktop::wshell	shell/maynard.c	/^	struct weston_desktop_shell *wshell;$/;"	m	struct:desktop	typeref:struct:desktop::weston_desktop_shell	file:
+desktop_shell	protocols/generated/desktop-shell-client-protocol.h	/^struct desktop_shell;$/;"	x
+desktop_shell	shell/desktop-shell-client-protocol.h	/^struct desktop_shell;$/;"	x
+desktop_shell_add_listener	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_add_listener(struct desktop_shell *desktop_shell,$/;"	f
+desktop_shell_add_listener	shell/desktop-shell-client-protocol.h	/^desktop_shell_add_listener(struct desktop_shell *desktop_shell,$/;"	f
+desktop_shell_cursor	protocols/generated/desktop-shell-client-protocol.h	/^enum desktop_shell_cursor {$/;"	g
+desktop_shell_cursor	shell/desktop-shell-client-protocol.h	/^enum desktop_shell_cursor {$/;"	g
+desktop_shell_desktop_ready	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_desktop_ready(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_desktop_ready	shell/desktop-shell-client-protocol.h	/^desktop_shell_desktop_ready(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_destroy	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_destroy(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_destroy	shell/desktop-shell-client-protocol.h	/^desktop_shell_destroy(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_get_user_data	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_get_user_data(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_get_user_data	shell/desktop-shell-client-protocol.h	/^desktop_shell_get_user_data(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_get_version	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_get_version(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_get_version	shell/desktop-shell-client-protocol.h	/^desktop_shell_get_version(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_interface	protocols/generated/desktop-shell-client-protocol.h	/^extern const struct wl_interface desktop_shell_interface;$/;"	x
+desktop_shell_interface	shell/desktop-shell-client-protocol.h	/^extern const struct wl_interface desktop_shell_interface;$/;"	x
+desktop_shell_listener	protocols/generated/desktop-shell-client-protocol.h	/^struct desktop_shell_listener {$/;"	s
+desktop_shell_listener	shell/desktop-shell-client-protocol.h	/^struct desktop_shell_listener {$/;"	s
+desktop_shell_listener::configure	protocols/generated/desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_listener::configure	shell/desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_listener::grab_cursor	protocols/generated/desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_listener::grab_cursor	shell/desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_listener::prepare_lock_surface	protocols/generated/desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_listener::prepare_lock_surface	shell/desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:desktop_shell_listener
+desktop_shell_panel_position	protocols/generated/desktop-shell-client-protocol.h	/^enum desktop_shell_panel_position {$/;"	g
+desktop_shell_panel_position	shell/desktop-shell-client-protocol.h	/^enum desktop_shell_panel_position {$/;"	g
+desktop_shell_set_background	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_background(struct desktop_shell *desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+desktop_shell_set_background	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_background(struct desktop_shell *desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+desktop_shell_set_grab_surface	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_grab_surface(struct desktop_shell *desktop_shell, struct wl_surface *surface)$/;"	f
+desktop_shell_set_grab_surface	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_grab_surface(struct desktop_shell *desktop_shell, struct wl_surface *surface)$/;"	f
+desktop_shell_set_lock_surface	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_lock_surface(struct desktop_shell *desktop_shell, struct wl_surface *surface)$/;"	f
+desktop_shell_set_lock_surface	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_lock_surface(struct desktop_shell *desktop_shell, struct wl_surface *surface)$/;"	f
+desktop_shell_set_panel	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_panel(struct desktop_shell *desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+desktop_shell_set_panel	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_panel(struct desktop_shell *desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+desktop_shell_set_panel_position	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_panel_position(struct desktop_shell *desktop_shell, uint32_t position)$/;"	f
+desktop_shell_set_panel_position	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_panel_position(struct desktop_shell *desktop_shell, uint32_t position)$/;"	f
+desktop_shell_set_user_data	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_set_user_data(struct desktop_shell *desktop_shell, void *user_data)$/;"	f
+desktop_shell_set_user_data	shell/desktop-shell-client-protocol.h	/^desktop_shell_set_user_data(struct desktop_shell *desktop_shell, void *user_data)$/;"	f
+desktop_shell_unlock	protocols/generated/desktop-shell-client-protocol.h	/^desktop_shell_unlock(struct desktop_shell *desktop_shell)$/;"	f
+desktop_shell_unlock	shell/desktop-shell-client-protocol.h	/^desktop_shell_unlock(struct desktop_shell *desktop_shell)$/;"	f
+destroy_cb	shell/maynard.c	/^destroy_cb (GObject *object,$/;"	f	file:
+destroy_listener	shell/shell-helper.c	/^	struct wl_listener destroy_listener;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::wl_listener	file:
+display	shell/maynard.c	/^	struct wl_display *display;$/;"	m	struct:desktop	typeref:struct:desktop::wl_display	file:
+draw_cb	shell/maynard.c	/^draw_cb (GtkWidget *widget,$/;"	f	file:
+element	shell/maynard.c	/^struct element {$/;"	s	file:
+element::pixbuf	shell/maynard.c	/^	GdkPixbuf *pixbuf;$/;"	m	struct:element	file:
+element::surface	shell/maynard.c	/^	struct wl_surface *surface;$/;"	m	struct:element	typeref:struct:element::wl_surface	file:
+element::window	shell/maynard.c	/^	GtkWidget *window;$/;"	m	struct:element	file:
+gdk_display	shell/maynard.c	/^	GdkDisplay *gdk_display;$/;"	m	struct:desktop	file:
+grab_cursor	protocols/generated/desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:desktop_shell_listener
+grab_cursor	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+grab_cursor	shell/desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:desktop_shell_listener
+grab_cursor	shell/weston-desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+grab_surface_create	shell/maynard.c	/^static void grab_surface_create(struct desktop *desktop)$/;"	f	file:
+helper	shell/maynard.c	/^	struct shell_helper *helper;$/;"	m	struct:desktop	typeref:struct:desktop::shell_helper	file:
+helper_destroy	shell/shell-helper.c	/^helper_destroy(struct wl_listener *listener, void *data)$/;"	f	file:
+helper_implementation	shell/shell-helper.c	/^static const struct shell_helper_interface helper_implementation = {$/;"	v	typeref:struct:shell_helper_interface	file:
+link	shell/shell-helper.c	/^	struct wl_list link;$/;"	m	struct:slide	typeref:struct:slide::wl_list	file:
+main	shell/maynard.c	/^main (int argc,$/;"	f
+maynard_panel_class_init	shell/panel.c	/^maynard_panel_class_init (MaynardPanelClass *klass)$/;"	f	file:
+maynard_panel_constructed	shell/panel.c	/^maynard_panel_constructed (GObject *object)$/;"	f	file:
+maynard_panel_dispose	shell/panel.c	/^maynard_panel_dispose (GObject *object)$/;"	f	file:
+maynard_panel_init	shell/panel.c	/^maynard_panel_init (MaynardPanel *self)$/;"	f	file:
+maynard_panel_new	shell/panel.c	/^maynard_panel_new (void)$/;"	f
+maynard_panel_new	shell/panel.h	/^GtkWidget * maynard_panel_new (void);$/;"	p
+maynard_panel_set_expand	shell/panel.h	/^void maynard_panel_set_expand (MaynardPanel *self, gboolean expand);$/;"	p
+maynard_panel_set_volume_icon_name	shell/panel.h	/^void maynard_panel_set_volume_icon_name (MaynardPanel *self,$/;"	p
+maynard_panel_show_previous	shell/panel.h	/^void maynard_panel_show_previous (MaynardPanel *self, MaynardPanelButton button);$/;"	p
+module_init	shell/shell-helper.c	/^module_init(struct weston_compositor *ec,$/;"	f
+move_surface	protocols/generated/shell-helper-server-protocol.h	/^	void (*move_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+move_surface	shell/shell-helper-server-protocol.h	/^	void (*move_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+output	shell/maynard.c	/^	struct wl_output *output;$/;"	m	struct:desktop	typeref:struct:desktop::wl_output	file:
+panel	shell/maynard.c	/^	struct element *panel;$/;"	m	struct:desktop	typeref:struct:desktop::element	file:
+panel_create	shell/maynard.c	/^panel_create (struct desktop *desktop)$/;"	f	file:
+panel_layer	shell/shell-helper.c	/^	struct weston_layer *panel_layer;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_layer	file:
+parent	shell/panel.h	/^  GtkWindow parent;$/;"	m	struct:MaynardPanel
+parent_class	shell/panel.h	/^  GtkWindowClass parent_class;$/;"	m	struct:MaynardPanelClass
+pixbuf	shell/maynard.c	/^	GdkPixbuf *pixbuf;$/;"	m	struct:element	file:
+pointer	shell/maynard.c	/^	struct wl_pointer *pointer;$/;"	m	struct:desktop	typeref:struct:desktop::wl_pointer	file:
+pointer_handle_axis	shell/maynard.c	/^pointer_handle_axis (void *data,$/;"	f	file:
+pointer_handle_button	shell/maynard.c	/^pointer_handle_button (void *data,$/;"	f	file:
+pointer_handle_enter	shell/maynard.c	/^pointer_handle_enter (void *data,$/;"	f	file:
+pointer_handle_leave	shell/maynard.c	/^pointer_handle_leave (void *data,$/;"	f	file:
+pointer_handle_motion	shell/maynard.c	/^pointer_handle_motion (void *data,$/;"	f	file:
+pointer_listener	shell/maynard.c	/^static const struct wl_pointer_listener pointer_listener = {$/;"	v	typeref:struct:wl_pointer_listener	file:
+prepare_lock_surface	protocols/generated/desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:desktop_shell_listener
+prepare_lock_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+prepare_lock_surface	shell/desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:desktop_shell_listener
+prepare_lock_surface	shell/weston-desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+print_hello	shell/panel.c	/^static void print_hello()$/;"	f	file:
+priv	shell/panel.h	/^  MaynardPanelPrivate *priv;$/;"	m	struct:MaynardPanel
+registry	shell/maynard.c	/^	struct wl_registry *registry;$/;"	m	struct:desktop	typeref:struct:desktop::wl_registry	file:
+registry_handle_global	shell/maynard.c	/^registry_handle_global (void *data,$/;"	f	file:
+registry_handle_global_remove	shell/maynard.c	/^registry_handle_global_remove (void *data,$/;"	f	file:
+registry_listener	shell/maynard.c	/^static const struct wl_registry_listener registry_listener = {$/;"	v	typeref:struct:wl_registry_listener	file:
+request	shell/shell-helper.c	/^	enum SlideRequest request;$/;"	m	struct:slide	typeref:enum:slide::SlideRequest	file:
+scale_background	shell/maynard.c	/^scale_background (GdkPixbuf *original_pixbuf)$/;"	f	file:
+screensaver	protocols/generated/desktop-shell-client-protocol.h	/^struct screensaver;$/;"	x
+screensaver	shell/desktop-shell-client-protocol.h	/^struct screensaver;$/;"	x
+screensaver_destroy	protocols/generated/desktop-shell-client-protocol.h	/^screensaver_destroy(struct screensaver *screensaver)$/;"	f
+screensaver_destroy	shell/desktop-shell-client-protocol.h	/^screensaver_destroy(struct screensaver *screensaver)$/;"	f
+screensaver_get_user_data	protocols/generated/desktop-shell-client-protocol.h	/^screensaver_get_user_data(struct screensaver *screensaver)$/;"	f
+screensaver_get_user_data	shell/desktop-shell-client-protocol.h	/^screensaver_get_user_data(struct screensaver *screensaver)$/;"	f
+screensaver_get_version	protocols/generated/desktop-shell-client-protocol.h	/^screensaver_get_version(struct screensaver *screensaver)$/;"	f
+screensaver_get_version	shell/desktop-shell-client-protocol.h	/^screensaver_get_version(struct screensaver *screensaver)$/;"	f
+screensaver_interface	protocols/generated/desktop-shell-client-protocol.h	/^extern const struct wl_interface screensaver_interface;$/;"	x
+screensaver_interface	shell/desktop-shell-client-protocol.h	/^extern const struct wl_interface screensaver_interface;$/;"	x
+screensaver_set_surface	protocols/generated/desktop-shell-client-protocol.h	/^screensaver_set_surface(struct screensaver *screensaver, struct wl_surface *surface, struct wl_output *output)$/;"	f
+screensaver_set_surface	shell/desktop-shell-client-protocol.h	/^screensaver_set_surface(struct screensaver *screensaver, struct wl_surface *surface, struct wl_output *output)$/;"	f
+screensaver_set_user_data	protocols/generated/desktop-shell-client-protocol.h	/^screensaver_set_user_data(struct screensaver *screensaver, void *user_data)$/;"	f
+screensaver_set_user_data	shell/desktop-shell-client-protocol.h	/^screensaver_set_user_data(struct screensaver *screensaver, void *user_data)$/;"	f
+seat	shell/maynard.c	/^	struct wl_seat *seat;$/;"	m	struct:desktop	typeref:struct:desktop::wl_seat	file:
+seat_handle_capabilities	shell/maynard.c	/^seat_handle_capabilities (void *data,$/;"	f	file:
+seat_handle_name	shell/maynard.c	/^seat_handle_name (void *data,$/;"	f	file:
+seat_listener	shell/maynard.c	/^static const struct wl_seat_listener seat_listener = {$/;"	v	typeref:struct:wl_seat_listener	file:
+set_panel	protocols/generated/shell-helper-server-protocol.h	/^	void (*set_panel)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+set_panel	shell/shell-helper-server-protocol.h	/^	void (*set_panel)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_configure	shell/maynard.c	/^static void shell_configure(struct desktop *desktop, uint32_t edges,$/;"	f	file:
+shell_curtain_create_view	shell/shell-helper.c	/^shell_curtain_create_view(struct shell_helper *helper,$/;"	f	file:
+shell_helper	protocols/generated/shell-helper-client-protocol.h	/^struct shell_helper;$/;"	x
+shell_helper	protocols/generated/shell-helper-server-protocol.h	/^struct shell_helper;$/;"	x
+shell_helper	shell/shell-helper-client-protocol.h	/^struct shell_helper;$/;"	x
+shell_helper	shell/shell-helper-server-protocol.h	/^struct shell_helper;$/;"	x
+shell_helper	shell/shell-helper.c	/^struct shell_helper {$/;"	s	file:
+shell_helper::compositor	shell/shell-helper.c	/^	struct weston_compositor *compositor;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_compositor	file:
+shell_helper::curtain_animation	shell/shell-helper.c	/^	struct weston_view_animation *curtain_animation;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_view_animation	file:
+shell_helper::curtain_layer	shell/shell-helper.c	/^	struct weston_layer curtain_layer;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_layer	file:
+shell_helper::curtain_show	shell/shell-helper.c	/^	uint32_t curtain_show;$/;"	m	struct:shell_helper	file:
+shell_helper::curtain_view	shell/shell-helper.c	/^	struct weston_view *curtain_view;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_view	file:
+shell_helper::destroy_listener	shell/shell-helper.c	/^	struct wl_listener destroy_listener;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::wl_listener	file:
+shell_helper::panel_layer	shell/shell-helper.c	/^	struct weston_layer *panel_layer;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::weston_layer	file:
+shell_helper::slide_list	shell/shell-helper.c	/^	struct wl_list slide_list;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::wl_list	file:
+shell_helper_add_surface_to_layer	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_add_surface_to_layer(struct shell_helper *shell_helper, struct wl_surface *new_surface, struct wl_surface *existing_surface)$/;"	f
+shell_helper_add_surface_to_layer	shell/shell-helper-client-protocol.h	/^shell_helper_add_surface_to_layer(struct shell_helper *shell_helper, struct wl_surface *new_surface, struct wl_surface *existing_surface)$/;"	f
+shell_helper_add_surface_to_layer	shell/shell-helper.c	/^shell_helper_add_surface_to_layer(struct wl_client *client,$/;"	f	file:
+shell_helper_curtain	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_curtain(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t show)$/;"	f
+shell_helper_curtain	shell/shell-helper-client-protocol.h	/^shell_helper_curtain(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t show)$/;"	f
+shell_helper_curtain	shell/shell-helper.c	/^shell_helper_curtain(struct wl_client *client,$/;"	f	file:
+shell_helper_destroy	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_destroy(struct shell_helper *shell_helper)$/;"	f
+shell_helper_destroy	shell/shell-helper-client-protocol.h	/^shell_helper_destroy(struct shell_helper *shell_helper)$/;"	f
+shell_helper_get_user_data	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_get_user_data(struct shell_helper *shell_helper)$/;"	f
+shell_helper_get_user_data	shell/shell-helper-client-protocol.h	/^shell_helper_get_user_data(struct shell_helper *shell_helper)$/;"	f
+shell_helper_get_version	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_get_version(struct shell_helper *shell_helper)$/;"	f
+shell_helper_get_version	shell/shell-helper-client-protocol.h	/^shell_helper_get_version(struct shell_helper *shell_helper)$/;"	f
+shell_helper_interface	protocols/generated/shell-helper-client-protocol.h	/^extern const struct wl_interface shell_helper_interface;$/;"	x
+shell_helper_interface	protocols/generated/shell-helper-server-protocol.h	/^extern const struct wl_interface shell_helper_interface;$/;"	x
+shell_helper_interface	protocols/generated/shell-helper-server-protocol.h	/^struct shell_helper_interface {$/;"	s
+shell_helper_interface	shell/shell-helper-client-protocol.h	/^extern const struct wl_interface shell_helper_interface;$/;"	x
+shell_helper_interface	shell/shell-helper-protocol.c	/^WL_EXPORT const struct wl_interface shell_helper_interface = {$/;"	v	typeref:struct:wl_interface
+shell_helper_interface	shell/shell-helper-server-protocol.h	/^extern const struct wl_interface shell_helper_interface;$/;"	x
+shell_helper_interface	shell/shell-helper-server-protocol.h	/^struct shell_helper_interface {$/;"	s
+shell_helper_interface::add_surface_to_layer	protocols/generated/shell-helper-server-protocol.h	/^	void (*add_surface_to_layer)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::add_surface_to_layer	shell/shell-helper-server-protocol.h	/^	void (*add_surface_to_layer)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::curtain	protocols/generated/shell-helper-server-protocol.h	/^	void (*curtain)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::curtain	shell/shell-helper-server-protocol.h	/^	void (*curtain)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::move_surface	protocols/generated/shell-helper-server-protocol.h	/^	void (*move_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::move_surface	shell/shell-helper-server-protocol.h	/^	void (*move_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::set_panel	protocols/generated/shell-helper-server-protocol.h	/^	void (*set_panel)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::set_panel	shell/shell-helper-server-protocol.h	/^	void (*set_panel)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::slide_surface	protocols/generated/shell-helper-server-protocol.h	/^	void (*slide_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::slide_surface	shell/shell-helper-server-protocol.h	/^	void (*slide_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::slide_surface_back	protocols/generated/shell-helper-server-protocol.h	/^	void (*slide_surface_back)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_interface::slide_surface_back	shell/shell-helper-server-protocol.h	/^	void (*slide_surface_back)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+shell_helper_move_surface	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_move_surface(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t x, int32_t y)$/;"	f
+shell_helper_move_surface	shell/shell-helper-client-protocol.h	/^shell_helper_move_surface(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t x, int32_t y)$/;"	f
+shell_helper_move_surface	shell/shell-helper.c	/^shell_helper_move_surface(struct wl_client *client,$/;"	f	file:
+shell_helper_requests	shell/shell-helper-protocol.c	/^static const struct wl_message shell_helper_requests[] = {$/;"	v	typeref:struct:wl_message	file:
+shell_helper_set_panel	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_set_panel(struct shell_helper *shell_helper, struct wl_surface *surface)$/;"	f
+shell_helper_set_panel	shell/shell-helper-client-protocol.h	/^shell_helper_set_panel(struct shell_helper *shell_helper, struct wl_surface *surface)$/;"	f
+shell_helper_set_panel	shell/shell-helper.c	/^shell_helper_set_panel(struct wl_client *client,$/;"	f	file:
+shell_helper_set_user_data	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_set_user_data(struct shell_helper *shell_helper, void *user_data)$/;"	f
+shell_helper_set_user_data	shell/shell-helper-client-protocol.h	/^shell_helper_set_user_data(struct shell_helper *shell_helper, void *user_data)$/;"	f
+shell_helper_slide_surface	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_slide_surface(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t x, int32_t y)$/;"	f
+shell_helper_slide_surface	shell/shell-helper-client-protocol.h	/^shell_helper_slide_surface(struct shell_helper *shell_helper, struct wl_surface *surface, int32_t x, int32_t y)$/;"	f
+shell_helper_slide_surface	shell/shell-helper.c	/^shell_helper_slide_surface(struct wl_client *client,$/;"	f	file:
+shell_helper_slide_surface_back	protocols/generated/shell-helper-client-protocol.h	/^shell_helper_slide_surface_back(struct shell_helper *shell_helper, struct wl_surface *surface)$/;"	f
+shell_helper_slide_surface_back	shell/shell-helper-client-protocol.h	/^shell_helper_slide_surface_back(struct shell_helper *shell_helper, struct wl_surface *surface)$/;"	f
+shell_helper_slide_surface_back	shell/shell-helper.c	/^shell_helper_slide_surface_back(struct wl_client *client,$/;"	f	file:
+slide	shell/shell-helper.c	/^struct slide {$/;"	s	file:
+slide::link	shell/shell-helper.c	/^	struct wl_list link;$/;"	m	struct:slide	typeref:struct:slide::wl_list	file:
+slide::request	shell/shell-helper.c	/^	enum SlideRequest request;$/;"	m	struct:slide	typeref:enum:slide::SlideRequest	file:
+slide::state	shell/shell-helper.c	/^	enum SlideState state;$/;"	m	struct:slide	typeref:enum:slide::SlideState	file:
+slide::surface	shell/shell-helper.c	/^	struct weston_surface *surface;$/;"	m	struct:slide	typeref:struct:slide::weston_surface	file:
+slide::transform	shell/shell-helper.c	/^	struct weston_transform transform;$/;"	m	struct:slide	typeref:struct:slide::weston_transform	file:
+slide::view	shell/shell-helper.c	/^	struct weston_view *view;$/;"	m	struct:slide	typeref:struct:slide::weston_view	file:
+slide::x	shell/shell-helper.c	/^	int x;$/;"	m	struct:slide	file:
+slide::y	shell/shell-helper.c	/^	int y;$/;"	m	struct:slide	file:
+slide_back	shell/shell-helper.c	/^slide_back(struct slide *slide)$/;"	f	file:
+slide_back	shell/shell-helper.c	/^static void slide_back(struct slide *slide);$/;"	p	file:
+slide_back_done_cb	shell/shell-helper.c	/^slide_back_done_cb(struct weston_view_animation *animation, void *data)$/;"	f	file:
+slide_done_cb	shell/shell-helper.c	/^slide_done_cb(struct weston_view_animation *animation, void *data)$/;"	f	file:
+slide_list	shell/shell-helper.c	/^	struct wl_list slide_list;$/;"	m	struct:shell_helper	typeref:struct:shell_helper::wl_list	file:
+slide_out	shell/shell-helper.c	/^slide_out(struct slide *slide)$/;"	f	file:
+slide_surface	protocols/generated/shell-helper-server-protocol.h	/^	void (*slide_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+slide_surface	shell/shell-helper-server-protocol.h	/^	void (*slide_surface)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+slide_surface_back	protocols/generated/shell-helper-server-protocol.h	/^	void (*slide_surface_back)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+slide_surface_back	shell/shell-helper-server-protocol.h	/^	void (*slide_surface_back)(struct wl_client *client,$/;"	m	struct:shell_helper_interface
+state	shell/shell-helper.c	/^	enum SlideState state;$/;"	m	struct:slide	typeref:enum:slide::SlideState	file:
+surface	shell/maynard.c	/^	struct wl_surface *surface;$/;"	m	struct:element	typeref:struct:element::wl_surface	file:
+surface	shell/shell-helper.c	/^	struct weston_surface *surface;$/;"	m	struct:slide	typeref:struct:slide::weston_surface	file:
+system_button	shell/panel.c	/^  GtkWidget *system_button;$/;"	m	struct:MaynardPanelPrivate	file:
+transform	shell/shell-helper.c	/^	struct weston_transform transform;$/;"	m	struct:slide	typeref:struct:slide::weston_transform	file:
+types	shell/shell-helper-protocol.c	/^static const struct wl_interface *types[] = {$/;"	v	typeref:struct:wl_interface	file:
+types	shell/weston-desktop-shell-protocol.c	/^static const struct wl_interface *types[] = {$/;"	v	typeref:struct:wl_interface	file:
+view	shell/shell-helper.c	/^	struct weston_view *view;$/;"	m	struct:slide	typeref:struct:slide::weston_view	file:
+weston_desktop_shell	protocols/generated/weston-desktop-shell-client-protocol.h	/^struct weston_desktop_shell;$/;"	x
+weston_desktop_shell	shell/weston-desktop-shell-client-protocol.h	/^struct weston_desktop_shell;$/;"	x
+weston_desktop_shell_add_listener	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_add_listener(struct weston_desktop_shell *weston_desktop_shell,$/;"	f
+weston_desktop_shell_add_listener	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_add_listener(struct weston_desktop_shell *weston_desktop_shell,$/;"	f
+weston_desktop_shell_configure	shell/maynard.c	/^weston_desktop_shell_configure (void *data,$/;"	f	file:
+weston_desktop_shell_cursor	protocols/generated/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_cursor {$/;"	g
+weston_desktop_shell_cursor	shell/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_cursor {$/;"	g
+weston_desktop_shell_desktop_ready	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_desktop_ready(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_desktop_ready	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_desktop_ready(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_destroy	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_destroy(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_destroy	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_destroy(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_error	protocols/generated/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_error {$/;"	g
+weston_desktop_shell_error	shell/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_error {$/;"	g
+weston_desktop_shell_events	shell/weston-desktop-shell-protocol.c	/^static const struct wl_message weston_desktop_shell_events[] = {$/;"	v	typeref:struct:wl_message	file:
+weston_desktop_shell_get_user_data	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_get_user_data(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_get_user_data	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_get_user_data(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_get_version	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_get_version(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_get_version	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_get_version(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_grab_cursor	shell/maynard.c	/^weston_desktop_shell_grab_cursor (void *data,$/;"	f	file:
+weston_desktop_shell_interface	protocols/generated/weston-desktop-shell-client-protocol.h	/^extern const struct wl_interface weston_desktop_shell_interface;$/;"	x
+weston_desktop_shell_interface	shell/weston-desktop-shell-client-protocol.h	/^extern const struct wl_interface weston_desktop_shell_interface;$/;"	x
+weston_desktop_shell_interface	shell/weston-desktop-shell-protocol.c	/^WL_EXPORT const struct wl_interface weston_desktop_shell_interface = {$/;"	v	typeref:struct:wl_interface
+weston_desktop_shell_listener	protocols/generated/weston-desktop-shell-client-protocol.h	/^struct weston_desktop_shell_listener {$/;"	s
+weston_desktop_shell_listener	shell/weston-desktop-shell-client-protocol.h	/^struct weston_desktop_shell_listener {$/;"	s
+weston_desktop_shell_listener::configure	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_listener::configure	shell/weston-desktop-shell-client-protocol.h	/^	void (*configure)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_listener::grab_cursor	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_listener::grab_cursor	shell/weston-desktop-shell-client-protocol.h	/^	void (*grab_cursor)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_listener::prepare_lock_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_listener::prepare_lock_surface	shell/weston-desktop-shell-client-protocol.h	/^	void (*prepare_lock_surface)(void *data,$/;"	m	struct:weston_desktop_shell_listener
+weston_desktop_shell_panel_position	protocols/generated/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_panel_position {$/;"	g
+weston_desktop_shell_panel_position	shell/weston-desktop-shell-client-protocol.h	/^enum weston_desktop_shell_panel_position {$/;"	g
+weston_desktop_shell_prepare_lock_surface	shell/maynard.c	/^weston_desktop_shell_prepare_lock_surface (void *data,$/;"	f	file:
+weston_desktop_shell_requests	shell/weston-desktop-shell-protocol.c	/^static const struct wl_message weston_desktop_shell_requests[] = {$/;"	v	typeref:struct:wl_message	file:
+weston_desktop_shell_set_background	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_background(struct weston_desktop_shell *weston_desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_background	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_background(struct weston_desktop_shell *weston_desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_grab_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_grab_surface(struct weston_desktop_shell *weston_desktop_shell, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_grab_surface	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_grab_surface(struct weston_desktop_shell *weston_desktop_shell, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_lock_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_lock_surface(struct weston_desktop_shell *weston_desktop_shell, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_lock_surface	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_lock_surface(struct weston_desktop_shell *weston_desktop_shell, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_panel	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_panel(struct weston_desktop_shell *weston_desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_panel	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_panel(struct weston_desktop_shell *weston_desktop_shell, struct wl_output *output, struct wl_surface *surface)$/;"	f
+weston_desktop_shell_set_panel_position	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_panel_position(struct weston_desktop_shell *weston_desktop_shell, uint32_t position)$/;"	f
+weston_desktop_shell_set_panel_position	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_panel_position(struct weston_desktop_shell *weston_desktop_shell, uint32_t position)$/;"	f
+weston_desktop_shell_set_user_data	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_user_data(struct weston_desktop_shell *weston_desktop_shell, void *user_data)$/;"	f
+weston_desktop_shell_set_user_data	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_set_user_data(struct weston_desktop_shell *weston_desktop_shell, void *user_data)$/;"	f
+weston_desktop_shell_unlock	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_unlock(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_desktop_shell_unlock	shell/weston-desktop-shell-client-protocol.h	/^weston_desktop_shell_unlock(struct weston_desktop_shell *weston_desktop_shell)$/;"	f
+weston_screensaver	protocols/generated/weston-desktop-shell-client-protocol.h	/^struct weston_screensaver;$/;"	x
+weston_screensaver	shell/weston-desktop-shell-client-protocol.h	/^struct weston_screensaver;$/;"	x
+weston_screensaver_destroy	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_screensaver_destroy(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_destroy	shell/weston-desktop-shell-client-protocol.h	/^weston_screensaver_destroy(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_get_user_data	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_screensaver_get_user_data(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_get_user_data	shell/weston-desktop-shell-client-protocol.h	/^weston_screensaver_get_user_data(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_get_version	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_screensaver_get_version(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_get_version	shell/weston-desktop-shell-client-protocol.h	/^weston_screensaver_get_version(struct weston_screensaver *weston_screensaver)$/;"	f
+weston_screensaver_interface	protocols/generated/weston-desktop-shell-client-protocol.h	/^extern const struct wl_interface weston_screensaver_interface;$/;"	x
+weston_screensaver_interface	shell/weston-desktop-shell-client-protocol.h	/^extern const struct wl_interface weston_screensaver_interface;$/;"	x
+weston_screensaver_interface	shell/weston-desktop-shell-protocol.c	/^WL_EXPORT const struct wl_interface weston_screensaver_interface = {$/;"	v	typeref:struct:wl_interface
+weston_screensaver_requests	shell/weston-desktop-shell-protocol.c	/^static const struct wl_message weston_screensaver_requests[] = {$/;"	v	typeref:struct:wl_message	file:
+weston_screensaver_set_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_screensaver_set_surface(struct weston_screensaver *weston_screensaver, struct wl_surface *surface, struct wl_output *output)$/;"	f
+weston_screensaver_set_surface	shell/weston-desktop-shell-client-protocol.h	/^weston_screensaver_set_surface(struct weston_screensaver *weston_screensaver, struct wl_surface *surface, struct wl_output *output)$/;"	f
+weston_screensaver_set_user_data	protocols/generated/weston-desktop-shell-client-protocol.h	/^weston_screensaver_set_user_data(struct weston_screensaver *weston_screensaver, void *user_data)$/;"	f
+weston_screensaver_set_user_data	shell/weston-desktop-shell-client-protocol.h	/^weston_screensaver_set_user_data(struct weston_screensaver *weston_screensaver, void *user_data)$/;"	f
+window	shell/maynard.c	/^	GtkWidget *window;$/;"	m	struct:element	file:
+wl_client	protocols/generated/shell-helper-server-protocol.h	/^struct wl_client;$/;"	x
+wl_client	shell/shell-helper-server-protocol.h	/^struct wl_client;$/;"	x
+wl_output	protocols/generated/desktop-shell-client-protocol.h	/^struct wl_output;$/;"	x
+wl_output	protocols/generated/weston-desktop-shell-client-protocol.h	/^struct wl_output;$/;"	x
+wl_output	shell/desktop-shell-client-protocol.h	/^struct wl_output;$/;"	x
+wl_output	shell/weston-desktop-shell-client-protocol.h	/^struct wl_output;$/;"	x
+wl_output_interface	shell/weston-desktop-shell-protocol.c	/^extern const struct wl_interface wl_output_interface;$/;"	x
+wl_resource	protocols/generated/shell-helper-server-protocol.h	/^struct wl_resource;$/;"	x
+wl_resource	shell/shell-helper-server-protocol.h	/^struct wl_resource;$/;"	x
+wl_surface	protocols/generated/desktop-shell-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	protocols/generated/shell-helper-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	protocols/generated/shell-helper-server-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	protocols/generated/weston-desktop-shell-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	shell/desktop-shell-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	shell/shell-helper-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	shell/shell-helper-server-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface	shell/weston-desktop-shell-client-protocol.h	/^struct wl_surface;$/;"	x
+wl_surface_interface	shell/shell-helper-protocol.c	/^extern const struct wl_interface wl_surface_interface;$/;"	x
+wl_surface_interface	shell/weston-desktop-shell-protocol.c	/^extern const struct wl_interface wl_surface_interface;$/;"	x
+wshell	shell/maynard.c	/^	struct weston_desktop_shell *wshell;$/;"	m	struct:desktop	typeref:struct:desktop::weston_desktop_shell	file:
+wshell_listener	shell/maynard.c	/^static const struct weston_desktop_shell_listener wshell_listener = {$/;"	v	typeref:struct:weston_desktop_shell_listener	file:
+x	shell/shell-helper.c	/^	int x;$/;"	m	struct:slide	file:
+y	shell/shell-helper.c	/^	int y;$/;"	m	struct:slide	file:

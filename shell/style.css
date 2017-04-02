@@ -1,0 +1,57 @@
+.maynard-panel {
+    background-color: #202020;
+}
+
+.maynard-system {
+    background-color: #202020;
+    color: white;
+}
+
+.maynard-system:hover {
+    background-color: #303030;
+    color: white;
+}
+
+.maynard-audio {
+    background-color: #202020;
+    color: white;
+}
+
+.maynard-audio:hover {
+    background-color: #303030;
+    color: white;
+}
+
+.maynard-apps {
+    background-color: #202020;
+    color: white;
+}
+
+.maynard-apps:hover {
+    background-color: #303030;
+    color: white;
+}
+
+.maynard-clock {
+    background-color: #202020;
+    color: white;
+}
+
+.maynard-grid {
+    background-color: #202020;
+}
+
+.maynard-grid-item {
+    background-color: #202020;
+    color: white;
+    font-family: "Cuprum";
+	 font-size: 10px;
+    border-style: none;
+    border-color: #000000;
+    border-width: 0px;
+    border-radius: 0px;
+}
+
+.maynard-grid-label {
+    background-color: #303030;
+}
