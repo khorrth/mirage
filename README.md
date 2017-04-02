@@ -2,6 +2,8 @@
 
 A project with aim of creating Wayland desktop shell with GTK3-based user interface.
 
+![](screenshot.png)
+
 ## Status
 
 Curent version is 1.
