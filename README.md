@@ -1,31 +1,11 @@
 # Mirage
 
-A fucking Wayland desktop shell.
+A project with aim of creating Wayland desktop shell with GTK3-based user interface.
 
 ## Status
 
 Curent version is 1.
 
-## Roadmap
-
-We gonna kill all the humans.
-
 ## Documentation
 
-### Usage
-
-#### Installation
-
-Just download and unpack.
-
-#### Runing
-
-Just push the trigger.
-
-#### Adding icons to the panel
-
-Righty click -> kill me.
-
-### Development
-
-Follow the developmtnt conventions and roadmap
+Some useful information is available at Maynard repository. Especially - how to setup the shell.
